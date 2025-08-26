@@ -14,6 +14,7 @@ override.tf.json
 # Local secrets/artifacts
 cf_private_key.pem
 cf_cookies.json
+assets/slate1-sky.mp4
 
 # OS/editor
 .DS_Store
