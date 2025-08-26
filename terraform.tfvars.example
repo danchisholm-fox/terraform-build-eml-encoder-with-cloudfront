@@ -1,0 +1,11 @@
+aws_region = "us-west-2"
+
+# Must be globally unique and contain no dots
+s3_bucket_name = "eml-simple-hls-yourname-12345"
+
+# Restrict to your public IP if possible (recommended)
+input_cidrs = ["0.0.0.0/0"]
+
+# Set true to auto-start the channel after apply
+start_channel_on_apply = false
+
